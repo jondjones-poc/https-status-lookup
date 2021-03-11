@@ -1,0 +1,358 @@
+
+	[ 
+		{ 
+			"categoryCode": "1xx",
+			"statusCode": "100",
+			"message": "Continue"
+		},
+		{ 
+			"categoryCode": "1xx",
+			"statusCode": "101",
+			"message": "Switching Protocols"
+		},
+		{ 
+			"categoryCode": "1xx",
+			"statusCode": "102",
+			"message": "Processing (WebDAV)"
+		},
+		{ 
+			"categoryCode": "2xx",
+			"statusCode": "200",
+			"message": "OK"
+		},
+		{ 
+			"categoryCode": "2xx",
+			"statusCode": "201",
+			"message": "Created"
+		},
+		{ 
+			"categoryCode": "2xx",
+			"statusCode": "202",
+			"message": "Accepted"
+		},
+		{ 
+			"categoryCode": "2xx",
+			"statusCode": "203",
+			"message": "Non-Authoritative Information"
+		},
+		{ 
+			"categoryCode": "2xx",
+			"statusCode": "204",
+			"message": "No Content"
+		},		
+		{ 
+			"categoryCode": "2xx",
+			"statusCode": "205",
+			"message": "Reset Content"
+		},	
+		{ 
+			"categoryCode": "2xx",
+			"statusCode": "206",
+			"message": "Partial Content"
+		},	
+		{ 
+			"categoryCode": "2xx",
+			"statusCode": "207",
+			"message": "Multi-statusCode (WebDAV)"
+		},	
+		{ 
+			"categoryCode": "2xx",
+			"statusCode": "208",
+			"message": "PAlready Reported (WebDAV)"
+		},	
+		{ 
+			"categoryCode": "2xx",
+			"statusCode": "226",
+			"message": "IM Used"
+		},	
+		{ 
+			"categoryCode": "3xx",
+			"statusCode": "300",
+			"message": "Multiple Choices"
+		},	
+		{ 
+			"categoryCode": "3xx",
+			"statusCode": "301",
+			"message": "Moved Permanently"
+		},	
+		{ 
+			"categoryCode": "3xx",
+			"statusCode": "302",
+			"message": "Found"
+		},	
+		{ 
+			"categoryCode": "3xx",
+			"statusCode": "303",
+			"message": "See Other"
+		},
+		{ 
+			"categoryCode": "3xx",
+			"statusCode": "304",
+			"message": "Not Modified"
+		},	
+		{ 
+			"categoryCode": "3xx",
+			"statusCode": "305",
+			"message": "Use Proxy"
+		},	
+		{ 
+			"categoryCode": "3xx",
+			"statusCode": "306",
+			"message": "(Unused)"
+		},	
+		{ 
+			"categoryCode": "3xx",
+			"statusCode": "307",
+			"message": "Temporary Redirect"
+		},
+		{ 
+			"categoryCode": "3xx",
+			"statusCode": "308",
+			"message": "Permanent Redirect (experimental)"
+		},	
+		{ 
+			"categoryCode": "4xx",
+			"statusCode":  "400",
+			"message": "Bad Request"
+		},	
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "401",
+			"message": "Unauthorized"
+		},	
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "402",
+			"message": "Payment Required"
+		},
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "403",
+			"message": "Forbidden"
+		},	
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "404",
+			"message": "Not Found"
+		},	
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "405",
+			"message": "Method Not Allowed"
+		},
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "406",
+			"message": "Not Acceptable"
+		},	
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "407",
+			"message": "Proxy Authentication Required"
+		},	
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "408",
+			"message": "Request Timeout"
+		},
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "409",
+			"message": "Conflict"
+		},	
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "410",
+			"message": "Gone"
+		},
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "411",
+			"message": "Length Required"
+		},	
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "410",
+			"message": "Gone"
+		},
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "412",
+			"message": "Precondition Failed"
+		},
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "413",
+			"message": "Request Entity Too Large"
+		},
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "414",
+			"message": "Request-URI Too Long"
+		},
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "415",
+			"message": "Unsupported Media Type"
+		},
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "414",
+			"message": "Request-URI Too Long"
+		},
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "416",
+			"message": "Requested Range Not Satisfiable"
+		},
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "417",
+			"message": "Expectation Failed"
+		},
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "418",
+			"message": "I'm a teapot (RFC 2324)"
+		},
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "420",
+			"message": "Enhance Your Calm (Twitter)"
+		},
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "422",
+			"message": "Unprocessable Entity (WebDAV)"
+		},
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "423",
+			"message": "Locked (WebDAV)"
+		},
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "424",
+			"message": "Failed Dependency (WebDAV)"
+		},
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "425",
+			"message": "Reserved for WebDAV"
+		},
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "426",
+			"message": "Upgrade Required"
+		},
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "428",
+			"message": "Precondition Required"
+		},
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "429",
+			"message": "Too Many Requests"
+		},
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "431",
+			"message": "Request Header Fields Too Large"
+		},
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "444",
+			"message": "No Response (Nginx)"
+		},
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "449",
+			"message": "449 Retry With (Microsoft)"
+		}, 
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "450",
+			"message": "Blocked by Windows categoryCodeal Controls (Microsoft)"
+		},
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "451",
+			"message": "Unavailable For Legal Reasons"
+		}, 
+		{ 
+			"categoryCode": "4xx",
+			"statusCode": "499",
+			"message": "Client Closed Request (Nginx)"
+		}, 
+		{ 
+			"categoryCode": "5xx",
+			"statusCode": "500",
+			"message": "Internal Server Error"
+		}, 
+		{ 
+			"categoryCode": "5xx",
+			"statusCode": "501",
+			"message": "Not Implemented"
+		}, 
+		{ 
+			"categoryCode": "5xx",
+			"statusCode": "502",
+			"message": "Bad Gateway"
+		}, 
+		{ 
+			"categoryCode": "5xx",
+			"statusCode": "503",
+			"message": "Service Unavailable"
+		}, 
+		{ 
+			"categoryCode": "5xx",
+			"statusCode": "504",
+			"message": "Gateway Timeout"
+		}, 
+		{ 
+			"categoryCode": "5xx",
+			"statusCode": "505",
+			"message": "HTTP Version Not Supported"
+		}, 
+		{ 
+			"categoryCode": "5xx",
+			"statusCode": "506",
+			"message": "Variant Also Negotiates (Experimental)"
+		}, 
+		{ 
+			"categoryCode": "5xx",
+			"statusCode": "507",
+			"message": "Insufficient Storage (WebDAV)"
+		}, 
+		{ 
+			"categoryCode": "5xx",
+			"statusCode": "508",
+			"message": "Loop Detected (WebDAV)"
+		}, 
+		{ 
+			"categoryCode": "5xx",
+			"statusCode": "509",
+			"message": "Bandwidth Limit Exceeded (Apache)"
+		}, 
+		{ 
+			"categoryCode": "5xx",
+			"statusCode": "510",
+			"message": "Not Extended"
+		}, 
+		{ 
+			"categoryCode": "5xx",
+			"statusCode": "511",
+			"message": "Network Authentication Required"
+		}, 
+		{ 
+			"categoryCode": "5xx",
+			"statusCode": "598",
+			"message": "Network read timeout error"
+		}, 
+		{ 
+			"categoryCode": "5xx",
+			"statusCode": "599",
+			"message": "Network connect timeout error"
+		} 
+	]

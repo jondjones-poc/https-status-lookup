@@ -1,0 +1,22 @@
+[
+		{ 
+			"name": "1xx",
+			"code": "Informational"
+		},
+		{ 
+			"name": "2xx",
+			"code": "Success"
+		},	
+		{ 
+			"name": "3xx",
+			"code": "Redirection"
+		},	
+		{ 
+			"name": "4xx",
+			"code": "Client Error"
+		},	
+		{ 
+			"name": "5xx",
+			"code": "Server Error"
+		} 
+]

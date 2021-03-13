@@ -1,5 +1,10 @@
-# https-status-lookup
-Get HTTP Status Code Information
+# https-status-lookup - By Jon D Jones 💥
+
+NPM package ou acn use to get HTTP Status Code Information
+
+**Download**: [https://www.npmjs.com/package/https-status-lookup](https://www.npmjs.com/package/https-status-lookup)
+
+👾☄️👻👺🕹️
 
 ## Installation
 ```
